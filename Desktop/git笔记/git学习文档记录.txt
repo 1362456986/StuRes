@@ -1,0 +1,6 @@
+先添加远程仓库 git remote add orign git@github.com:1362456986/StuRes.git 
+提交文件到远程仓库git push orign master
+
+git add 
+git commit -m '描述'
+git push orign master 提交到路径
